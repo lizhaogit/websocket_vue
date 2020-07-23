@@ -1,6 +1,6 @@
 # vue-demo
 
-> A Vue.js project
+> 这是一个WebSocket聊天室前端页面项目
 
 ## Build Setup
 
